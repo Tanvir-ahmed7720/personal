@@ -1,0 +1,50 @@
+.header{
+    font-size: 15px;
+    height:200px;
+}
+
+.header h1{
+    text-align: center;
+    font-size:30px;
+    color: aquamarine;
+    border: 2px solid black;
+}
+.header img {
+    height:140px;
+    float: right;
+    margin-left: auto;
+    margin-right: auto;
+  
+  
+}
+.objectives{
+    font-size: 20px ;
+}
+.objectives h2{
+    font-size: 20px;
+    background-color: darkgray;
+}
+.objectives p{
+    text-align: justify;
+    font-size: 15px;
+}
+.specila h2{
+    font-size: 20px;
+    background-color: darkgray;
+}
+.education h2{
+    background-color: darkgray;
+}
+.education table{
+    border: 2px solid black;
+    width: 100%;
+    text-align: center;
+}
+.education table,th,td{
+    border: 2px solid black;
+  border-collapse: collapse;
+    
+}
+.footer h2{
+    background-color: darkgray;
+}
